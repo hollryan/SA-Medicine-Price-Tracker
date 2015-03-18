@@ -1,0 +1,13 @@
+List ID,User ID,Active Ingredient,List Name
+44,10,"bevacizumab, capecitabine, docetaxel, docetaxel, docetaxel trihydrate, gemcitabine, gemcitabine hydrochloride, gemcitabine hydrochloride, oxaliplatin, vinorelbine, vinorelbine, vinorelbine tartrate, docetaxel anhydrous",Xeloda
+45,10,"dacarbazine, interferon alfa-2a, interferon alfa-2b, interferon beta 1a, interferon beta-1a, interferon beta-1b, interferon gamma recombinant human 0,1mg, temozolomide, vinblastine, vinblastine sulphate, interleukin (watch item)",Zelboraf
+46,10,"fluorouracil, fluorouracil, bevacizumab, cetuximab, fluorouracil, irinotecan, irinotecan hydrochloride, irinotecan hydrochloride trihydrate, leucovorin, sodium folinate, leucovorin calcium",Avastin_mCRC
+47,10,"bevacizumab, carboplatin, carboplatin solution, cisplatin, cisplatin powder, cisplatin solution, docetaxel, docetaxel, docetaxel trihydrate, erlotinib hcl, gemcitabine, gemcitabine hydrochloride, gemcitabine hydrochloride, paclitaxel, pemetrexed, docetaxel anhydrous",Avastin-mNSCLC
+51,2,"amiodarone, amiodarone hci, amiodarone hydrochloride 150mg/3ml, carvedilol, clopidogrel, clopidogrel, digoxin, furosemide, furosemide, isosorbide dinitrate, isosorbide dinitrate, isosorbide mononitrate, isosorbide-5-mononitrate, ivabradine, perindopril, perindopril erbumine, perindopril erbumine, perindopril tertbutylamine, perindopril tertbutylamine, perindopril tertbutylamine, perindopril tertbutylamine, simvastatin, simvastatin, spironolactone, valsartan, amiodarone hci, furosemide, perindopril arginine",Ivabradine
+52,11,"atorvastatin, atorvastatin calcium, ezetimibe, fluvastatin, lovastatin, pravastatin, pravastatin sodium, pravastatin sodium, rosuvastatin, simvastatin, simvastatin, atorvastatin, atorvastatin calcium, niacin, atorvastatin, atorvastatin, atorvastatin, atorvastatin, atorvastatin, atorvastatin, rosuvastatin calcium, atorvastatin, atorvastatin, atorvastatin, atorvastatin, simvastatin",Ezetrol
+55,1,"ibuprofen, ibuprofen, ibuprofen",test
+56,1,"rosuvastatin, rosuvastatin calcium",Rosuvastatin
+57,1,"botulinum toxin, botulinum toxin type a, clostridium botulinum",Botox
+58,1,everolimus,Everolimus
+59,1,"cisatracurium, neostigmine, neostigmine methylsulphate, rocuronium bromide, vecuronium, glycopyrronium bromide, vecuromiun bromide",bridion
+60,1,"budesonide, fluticasone, fluticasone furoate, fluticasone proprionate, fluticasone proprionate, formoterol, formoterol fumarate, salmeterol, salmeterol, salmeterol xinafoate, tiotropium bromide, indacaterol maleate equivalent to indacaterol 150,0 Ug, tiotropium bromide, tiotropium bromide, Formoterol Fumarate Dihyrate, Formoterol Fumarate Dihyrate, Formoterol Fumarate Dihyrate",Respiratory Health

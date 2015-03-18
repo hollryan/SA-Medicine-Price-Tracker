@@ -1,0 +1,17 @@
+{
+    "contents" : "\ninstall.packages(\"DBI\")\ninstall.packages(\"gsubfn\")\ninstall.packages(\"proto\")\ninstall.packages(\"chron\")\ninstall.packages(\"RSQLite\")\ninstall.packages(\"RSQLite.extfuns\")\ninstall.packages(\"sqldf\")\n\nlibrary(\"DBI\")\nlibrary(\"gsubfn\")\nlibrary(\"proto\")\nlibrary(\"chron\")\nlibrary(\"RSQLite\")\nlibrary(\"RSQLite.extfuns\")\nlibrary(\"sqldf\")\n\nfiles<-list.files(pattern=\"*.csv\")\n\nrdf<-lapply(files, read.csv)\n\nSEP<-as.data.frame(rdf[1])\nSEPactx<-as.data.frame(rdf[2])\n\nunionall<-sqldf(\"select Accession, Description from SEP union select Accession, Description from SEPactx\")\n\n\n\n\n\n",
+    "created" : 1424084217999.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "572810674",
+    "id" : "170B578F",
+    "lastKnownWriteTime" : 29555362185347104,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
