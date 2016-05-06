@@ -4,24 +4,24 @@
 library(shiny)
 
 SEP <- read.csv("data/SEP.csv", stringsAsFactors = FALSE
-                #,
-                #fileEncoding="latin1"
+                ,
+                fileEncoding="latin1"
                 )
 
 
 SEPactx <- read.csv("data/SEPactx.csv", stringsAsFactors = FALSE
-                    #,
-                    #fileEncoding="latin1"
+                    ,
+                    fileEncoding="latin1"
                     )
 
 SEPclean_actx_list <- read.csv("data/SEPclean_actx_list.csv", stringsAsFactors = FALSE
-                               #,
-                               #fileEncoding="latin1"
+                               ,
+                               fileEncoding="latin1"
                                 )
 
 SEPactx_mapping <- read.csv("data/SEPactx_mapping.csv", stringsAsFactors = FALSE
-                            #,
-                            #fileEncoding="latin1"
+                            ,
+                            fileEncoding="latin1"
                             )
 
 Mappedactx <- merge(SEPactx,SEPactx_mapping, by = "Active.Ingredients")

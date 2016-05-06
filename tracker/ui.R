@@ -2,8 +2,8 @@
 # Single Exit Prices App
 
 SEPclean_actx_list <- read.csv("data/SEPclean_actx_list.csv", stringsAsFactors = FALSE
-                               #,
-                               #fileEncoding="latin1"
+                               ,
+                               fileEncoding="latin1"
 )
 
 Listactx <- SEPclean_actx_list[ ,c(1)]
